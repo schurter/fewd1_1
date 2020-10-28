@@ -91,6 +91,10 @@ p { 		font-size:90%;    }
 			margin:0% 0% 3% 0%;
 			padding: .75rem;
 }
+/* img{
+    display: block;
+    width: 100%;
+} */
 
 /* media query 1: define styles that should only kick in if screen is above 421 pixels wide... */
 @media screen and (min-width:421px) {
